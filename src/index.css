@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-playfair: "Playfair Display", serif;
+  --font-dm: "DM Sans", sans-serif;
+  --color-dark-bg: #0A0A0B;
+  --color-gold: #C9A84C;
+  --color-gold-hover: #b39543;
+}
+
+body {
+  background-color: var(--color-dark-bg);
+  color: white;
+  font-family: var(--font-dm);
+}
