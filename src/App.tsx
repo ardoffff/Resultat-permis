@@ -5,7 +5,7 @@ import { CheckCircle2, XCircle, FileText, LogOut } from 'lucide-react';
 const SECRET_CODE = "ETG2026";
 
 const candidateData = {
-  name: "AZIALI-MBOUNGOU ABIGAELLE ESTHER LOUANGE",
+  name: "IYASSACK NDONG Fleur Adelaide",
   score: 37,
   total: 40,
   result: "FAVORABLE",
@@ -284,11 +284,11 @@ function OfficialDocument() {
   return (
     <div className="bg-white text-black p-6 sm:p-8 font-sans text-sm w-full h-full overflow-y-auto">
       <div className="mb-8">
-        <p>Identifiant NEPH : <span className="font-bold">210836200230</span></p>
-        <p>Date de naissance : <span className="font-bold">28/03/2000</span></p>
+        <p>Identifiant NEPH : <span className="font-bold">9925024631</span></p>
+        <p>Date de naissance : <span className="font-bold">19/03/1996</span></p>
       </div>
 
-      <p className="font-bold mb-8 uppercase">AZIALI-MBOUNGOU ABIGAELLE ESTHER LOUANGE,</p>
+      <p className="font-bold mb-8 uppercase">IYASSACK NDONG FLEUR ADELAIDE,</p>
 
       <p className="mb-6 leading-relaxed">
         Vous avez passé l'Epreuve Théorique Générale du permis de conduire du 13/03/2026 sur le site de AVENUE GEORGES CLEMENCEAU 77000 VAUX LE PENIL.
